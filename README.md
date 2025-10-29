@@ -12,5 +12,9 @@
 Program in an original language similar to Python to operate agricultural drones and automate farms.
 Playing this game will improve problem-solving skills and coding abilities through programming.
 
-# my scripts in the game
-Super fun and casual, not trying to sweat for the best/most optimal code. just trying to make ideas work and make problems to find a solution! :D
+# This Scripts Explanation
+This Script was a basic script that I wrote for the stage of the game where I have just unlocked carrots
+
+## Features
+This Script features organized rows and coloumns of the Crops Hay, Wheat and Carrots in specifically a 4x4 field
+
